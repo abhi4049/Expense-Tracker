@@ -1,0 +1,52 @@
+
+FAQs -frequently asked question(s)
+1.	How to ‘Login’?
+On the ‘Login’ page, enter your ‘username’ and ‘password’. After entering your credentials, click on ‘login’ button. If you do not have a username, then click on ‘sign up’ button.
+2.	How to ‘Sign Up’?
+If you are a new user, then click on ‘sign up’ button. It takes you to ‘sign up’ page. On ‘sign up’ page, enter your ‘name’, ‘username’,’ password’ and ‘mobile number’. After entering all your credentials, click on ‘sign up’ button. After clicking on ‘sign up’ button, your ‘Customer Id’ will be generated automatically and a message pops which informs about your successful ‘Sign Up’,
+3.	What is an ‘Add Account’ menu?
+It helps you add a new account if you do not have an existing account.
+4.	How to add a New Account?
+Click on ‘Add Account’ menu, If you have an already existing account then a message will be displayed on the screen informing about your existing account else you will be taken to ‘Add Accou
+nt’ page. On ‘Add Account’ page, your account number will be automatically generated. You have to enter your ‘Customer Id’ which was automatically generated once you signed up. Also you have to enter your ‘Name’, ‘Account type’ and ‘Balance’ and then click on “Add”. 
+5.	What is ‘Transaction’ menu?
+This application lets you choose a mode of transaction from various modes of transaction available such as RTGS, IMPS and Deposit.  
+6.	What is ‘RTGS’ mode of transaction?
+It is “Real Time Gross Settlement” commonly called ‘RTGS’. 
+RTGS features:
+	RTGS is available both online and offline
+	There is no maximum transfer value for RTGS.
+	RTGS allows a minimum transfer value of Rs. 2 lakhs only
+	It is a real-time payment service
+	RTGS service is available from 8:00 am to 6:00 pm for working days
+	There are no inward transaction charges
+7.	How to perform ‘RTGS’ transaction?
+Click on ‘RTGS’ menu in ‘Transaction’ menu. It takes you to ‘RTGS’ page. On ‘RTGS’ page, enter your ‘Account number’. After entering, click on ‘Find’ button. After clicking on ‘find’ button, your ‘balance’ will be displayed. Once your balance is displayed, enter desired amount to be transferred, beneficiary’s account number, and your IFSC code. After entering these details, click on ‘transfer’. A message will be displayed informing you regarding successful transaction via RTGS.
+8.	What is ‘IMPS’ mode of transaction?
+It is “Immediate Payment Service” commonly called ‘IMPS’. 
+IMPS features:
+	RTGS is available only online
+	There is maximum transfer value of only Rs. 2 laks for IMPS
+	IMPS allows a minimum transfer value of just Re. 1 
+	It is a real-time payment service
+	IMPS service is available on all days of year and 24*7 round the clock
+	Inward transaction charges are decided by individual member banks and PPIs
+9.	How to perform ‘IMPS’ transaction?
+Click on ‘IMPS’ menu in ‘Transaction’ menu. It takes you to ‘IMPS’ page. On ‘IMPS’ page, enter your ‘Account number’. After entering, click on ‘Find’ button. After clicking on ‘Find’ button, your ‘balance’ will be displayed. Once your balance is displayed, enter desired amount to be transferred, beneficiary’s account number, and your IFSC code. After entering these details, click on ‘transfer’. A message will be displayed informing you regarding successful transaction via IMPS.
+10.	 What is ‘Deposit’ mode of transaction?
+This application allows you deposit amount in your account.
+11.	 How to deposit amount into my account?
+Click on ‘deposit’ menu in ‘Transaction’ menu. On clicking ‘deposit’ button, ‘deposit’ page will be displayed. Enter your ‘Account number’. After entering, your ‘Customer ID’, ‘Date’ and ‘Balance’ will be displayed. Now enter the amount to be deposited and click on ‘ok’. After clicking on ‘ok’, a message pops which informs about successful ‘deposit’ of desired amount.
+12.	 What is ‘Balance’ menu?
+This application shows current balance in your account.
+13.	How to check current balance?
+Click on ‘Balance’ menu. It takes you to ‘Balance’ page. On ‘Balance’ page, enter your ‘Account number’. After entering all the details, click on ‘Find’ button. After clicking on ‘Find’ button, your ‘balance’ will be displayed.
+14.	What is ‘Cash on Mobile’ menu?
+Mobile phones have become an integral part of our life. This application helps a customer withdraw money from an ATM without using an ATM card by providing a unique code on registered mobile number that expires within a limited time and ensures seamless and safe access to cash.
+15.	How to use ‘Cash on Mobile’ feature?	
+Click on ‘Cash on Mobile’ menu. It takes you to ‘Cash on Mobile’ page. On ‘Cash on Mobile’ page, enter your ‘Account number’. After entering, click on ‘Find’ button. After clicking on ‘Find’ button, your balance will be displayed. Once your balance is displayed, enter desired withdrawal amount and your registered mobile number. After entering these details, click on ‘proceed’. A message will be displayed informing you regarding an OTP (One Time Password) sent on your registered mobile number. Using that ‘OTP’, you can withdraw cash from nearest ATM.
+16.	 How to ‘Logout’?
+Once you are done with your work and wish to logout, revert back to ‘MENU’ page. There is a ‘LOGOUT’ button on the page. Once you click on the ‘Logout’ button, you will be taken to ‘Login’ page.
+17.	 How to ‘Exit’ the Bank Management System?
+If you do not wish to login, click on the ‘exit’ button. It takes you out of the Bank Management System.
+
